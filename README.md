@@ -56,3 +56,5 @@ Everything up-to-date
 ```
 
 Now I am trying to create a new project to see if I can push this one. This should allow me to decide if the error lies with the particular project or with git.
+
+This project pushed up with no errors so the problem probably lies with the particular project itself.
